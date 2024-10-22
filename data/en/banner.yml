@@ -4,9 +4,9 @@ banner:
   bg_image_webp : "images/backgrounds/hero-area.webp"
   bg_image : "images/backgrounds/hero-area.jpg"
   icon : "" # themify icon pack : https://themify.me/themify-icons
-  title : "Experience the new reality"
-  content : "Lorem ipsum dolor sit amet consectetur adipisicing elit. Fugit, excepturi. At recusandae sit perferendis autem,iste tempora nostrum numquam sapiente!"
+  title : "Cambridge Half Bearathon"
+  content : "Twas the night before the Cambridge Half, and all through the city, not a creature was stirring, not even a mouse. Well actually, a bunch of people in bear costumes dressed up and ran through Kendall Square, in the hope that the Kendall Square Bear soon would be there."
   button:
     enable : true
-    label : "Explore Us"
-    link : "#services"
+    label : "Join Us"
+    link : "#about"
