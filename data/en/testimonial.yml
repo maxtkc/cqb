@@ -6,21 +6,21 @@ testimonial:
   testimonial_item :
     # testimonial item loop
     - name : Kendall Square Bear
-      image : images/client/client-1.jpg
-      image_webp : images/client/client-1.webp
+      image : images/kendall_sq_bear.png
+      image_webp : images/kendall_sq_bear.webp
       date : Dec 26, 2018
       content : Ooga ooga ooga
       
     # testimonial item loop
-    - name : Mark Dinn
-      image : images/client/client-2.jpg
-      image_webp : images/client/client-2.webp
+    - name : Julius Heitkoetter
+      image : images/julius.png
+      image_webp : images/julius.webp
       date : Dec 26, 2018
-      content : Lorem ipsum dolor sit amet, consectetur adipisicing elit. Praesentium minima ex, quia error, deserunt voluptatibus repellendus? Incidunt eligendi aliquam repellat molestias, vel sed optio rem odit quis ratione non consequuntur!
+      content : Bitte lass den Bären dieses Mal jemand anderen angreifen! [I can't wait to go fight the bear again!]
       
     # testimonial item loop
     - name : Lemos Kail
-      image : images/client/client-1.jpg
-      image_webp : images/client/client-1.webp
+      image : images/kalin.png
+      image_webp : images/kalin.webp
       date : Dec 26, 2018
-      content : Lorem ipsum dolor sit amet, consectetur adipisicing elit. Praesentium minima ex, quia error, deserunt voluptatibus repellendus? Incidunt eligendi aliquam repellat molestias, vel sed optio rem odit quis ratione non consequuntur!
+      content : You really should think about doing some cardio 🤔

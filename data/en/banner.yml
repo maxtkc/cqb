@@ -1,12 +1,12 @@
 ############################### Banner ################################
 banner:
   enable : true
-  bg_image_webp : "images/backgrounds/hero-area.webp"
-  bg_image : "images/backgrounds/hero-area.jpg"
+  bg_image_webp : "images/kendall_sq_bears.webp"
+  bg_image : "images/kendall_sq_bears.png"
   icon : "" # themify icon pack : https://themify.me/themify-icons
-  title : "Cambridge Half Bearathon"
+  title : "Cambridge Quarter Bearathon"
   content : "Twas the night before the Cambridge Half, and all through the city, not a creature was stirring, not even a mouse. Well actually, a bunch of people in bear costumes dressed up and ran through Kendall Square, in the hope that the Kendall Square Bear soon would be there."
   button:
     enable : true
-    label : "Join Us"
+    label : "Make a run for it!"
     link : "#about"

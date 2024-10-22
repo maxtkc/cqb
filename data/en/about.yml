@@ -1,16 +1,16 @@
 ############################# About ###################################
 about:
   enable : true
-  title : Join Us
+  title : Come run!
   about_item :
-  - icon : ti-ruler-pencil # themify icon pack : https://themify.me/themify-icons
+  - icon : ti-timer # themify icon pack : https://themify.me/themify-icons
     title : When
-    content : Lorem ipsum dolor sit amet, consectetur adipisicing elit. Velit, nihil, libero, perspiciatis eos provident laborum eum dignissimos.
+    content : 9pm, Friday, November 1st (right after Halloween and before the Cambridge Half)
+
+  - icon : ti-map # themify icon pack : https://themify.me/themify-icons
+    title : Where
+    content : Meeting in Kendall Square by that cool globe fountain!
 
   - icon : ti-cup # themify icon pack : https://themify.me/themify-icons
-    title : Where
-    content : Lorem ipsum dolor sit amet, consectetur adipisicing elit. Velit, nihil, libero, perspiciatis eos provident laborum eum dignissimos.
-
-  - icon : ti-thought # themify icon pack : https://themify.me/themify-icons
     title : Why
-    content : TBD
+    content : Well you were too late or too cheap to sign up for the Cambridge Half, so the obvious next option is to dress up like a bear and run with a bunch of people a much shorter distance at night right before it.
