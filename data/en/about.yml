@@ -5,7 +5,7 @@ about:
   about_item :
   - icon : ti-timer # themify icon pack : https://themify.me/themify-icons
     title : When
-    content : 9pm, Friday, November 1st (right after Halloween and before the Cambridge Half)
+    content : 8pm, Friday, November 1st (right after Halloween and before the Cambridge Half)
 
   - icon : ti-map # themify icon pack : https://themify.me/themify-icons
     title : Where

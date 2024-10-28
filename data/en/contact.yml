@@ -8,7 +8,7 @@ contact:
   # Contact details
   contact_list:
     - icon : ti-location-pin # themify icon pack : https://themify.me/themify-icons
-      info : "MIT Sailing Pavillion"
+      info : "MIT Sailing Pavillion (this is not the start location, just whereto find the organizers on an average day)"
       
     - icon : ti-mobile # themify icon pack : https://themify.me/themify-icons
       info : "Phone: Sorry the kendall square bear ate my phone"
