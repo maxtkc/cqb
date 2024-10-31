@@ -5,7 +5,7 @@ about:
   about_item :
   - icon : ti-timer # themify icon pack : https://themify.me/themify-icons
     title : When
-    content : [CHANGED] 8pm, Friday, November 8st
+    content : "[CHANGED] 8pm, Friday, November 8st"
 
   - icon : ti-map # themify icon pack : https://themify.me/themify-icons
     title : Where
